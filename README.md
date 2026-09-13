@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 Cursando ADS</p>
+<p data-importer="text" align="left">📚 Cursando ADS na Faculdade IMPACTA FIT</p>
 
 ###
 
